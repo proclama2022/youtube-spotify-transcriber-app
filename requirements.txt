@@ -1,0 +1,6 @@
+streamlit==1.26.0
+youtube-dl==2021.12.17
+spotipy==2.19.0
+SpeechRecognition==3.8.1
+pydub==0.25.1
+ffmpeg-python==0.2.0
